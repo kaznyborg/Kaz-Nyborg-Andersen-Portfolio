@@ -12,3 +12,5 @@ projects that will be included in this portfolio, as they are completed I can pl
 
 ![portfolio page 1 0f 2](./images/portfolio_1.png)
 ![portfolio page 2 of 2](./images/portfolio_2.png)
+![portfolio page 2 of 2](./images/create_account.png)
+![portfolio page 2 of 2](./images/categories.png)

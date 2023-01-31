@@ -192,8 +192,14 @@
         background-position: center center;
     }
 
-    .Calculator {
-        background-image: url(../images/041782954-14080hd5dm2-man-using-calculat.jpg);
+    .Get-Your-Drink-On {
+        background-image: url(../images/GYDO-ingredientSearch.png);
+        background-size:cover ;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+
+    .Open-Minded { background-image: url(../images/categories.png);
         background-size:cover ;
         background-repeat: no-repeat;
         background-position: center center;
